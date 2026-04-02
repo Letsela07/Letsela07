@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Lebohang 👋
 
-<!--
-**Letsela07/Letsela07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Informatics student at UNISA, based in Cape Town.
+Working towards a career in Data Engineering.
 
-Here are some ideas to get you started:
+## What I'm working with
+- Python & C++
+- SQL & Database Design
+- HTML basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 📚 Second year BSc Informatics @ UNISA
+- 🔧 Data Engineering programme @ BrightLearn
+- 🛠️ Building my first SQL project
+
+## Goals
+Land a junior data role in SA and grow into a full Data Engineer.
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/lebohang-letsela)
