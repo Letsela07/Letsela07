@@ -25,4 +25,4 @@ building reliable data systems. 🚀
 
 ## Connect
 - 📍 Cape Town, South Africa 🇿🇦
-- 💼 LinkedIn —linkedin.com/in/lebohang-letsela
+- 💼 LinkedIn —https://www.linkedin.com/in/lebohang-letsela
