@@ -1,20 +1,28 @@
 # Hi, I'm Lebohang 👋
 
-BSc Informatics student at UNISA, based in Cape Town.
+BSc Informatics student at UNISA, based in Cape Town. 
 Working towards a career in Data Engineering.
 
-## What I'm working with
-- Python & C++
-- SQL & Database Design
-- HTML basics
+## What I'm Working With
+- 🐍 Python & C++
+- 🗄️ SQL & MySQL & Database Design
+- 📊 Looker Studio & Data Visualization
+- 🌐 HTML basics
 
 ## Currently
 - 📚 Second year BSc Informatics @ UNISA
-- 🔧 Data Engineering programme @ BrightLearn
-- 🛠️ Building my first SQL project
+- 🔧 Data Engineering Bootcamp @ BrightLearn 2026
+- 🛠️ Building my data engineering portfolio
+
+## Projects
+- 📊 **Job Salary Analysis** — End to end analysis of 250,000 salary records using MySQL, SQL & Looker Studio
+- 🏦 **Banking Database** — SQL database modelling with customers, accounts, transactions & branches across South Africa
 
 ## Goals
-Land a junior data role in SA and grow into a full Data Engineer.
+Open to junior Data Analyst and Data Engineering roles in South Africa. 
+Passionate about turning raw data into meaningful insights and 
+building reliable data systems. 🚀
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/lebohang-letsela)
+- 📍 Cape Town, South Africa 🇿🇦
+- 💼 LinkedIn —linkedin.com/in/lebohang-letsela
