@@ -1,65 +1,95 @@
 # Hi, I'm Lebohang 👋
 
-BSc Informatics student at UNISA, based in Cape Town, South Africa 🇿🇦.
+I'm a BSc Informatics student at UNISA and a Data Engineering Bootcamp student at BrightLearn, based in Cape Town, South Africa 🇿🇦.
 
-I am building my career in Data Engineering with a focus on data warehousing, ETL pipelines, database design, and analytics. I enjoy transforming raw data into structured, reliable datasets that support business decision-making.
+I'm building practical experience in **data engineering and analytics**, with a focus on SQL, Python, ETL pipelines, data warehousing, dimensional modelling, and business intelligence.
 
-## 🚀 What I'm Working With
+I enjoy working through the full data journey: understanding raw data, investigating data quality issues, transforming it into reliable datasets, and preparing it for analysis and reporting.
 
-* 🐍 Python & C++
-* 🗄️ SQL, PostgreSQL & Database Design
-* 📊 Power BI, Looker Studio & Data Visualization
-* 🏗️ Data Warehousing & ETL Concepts
-* 🔧 Git, GitHub & VS Code
+## 🛠️ Technical Skills
 
-## 📚 Currently
+**Data Engineering & Databases**
+- SQL
+- SQL Server
+- PostgreSQL
+- MySQL
+- SSIS
+- ETL Pipelines
+- Data Warehousing
+- Dimensional Modelling
 
-* Second Year BSc Informatics Student @ UNISA
-* Data Engineering Bootcamp @ BrightLearn (2026)
-* Building Data Engineering and Analytics Portfolio Projects
-* Learning Data Warehousing, ETL Pipelines and Cloud Data Platforms
+**Programming**
+- Python
+- C++
 
-## 📂 Featured Projects
+**Analytics & Visualisation**
+- Power BI
+- Looker Studio
+- Excel
+
+**Tools**
+- Git & GitHub
+- VS Code
+- SQL Server Management Studio
+- DBeaver
+- Draw.io
+
+## 🚚 Featured Project: Logistics Data Warehouse
+
+An end-to-end data warehousing project built using the **Medallion Architecture (Bronze → Silver → Gold)** to transform raw logistics data into structured datasets for analytics and reporting.
+
+### Current Progress
+
+- Designed the data warehouse architecture and dimensional models.
+- Loaded raw customer, shipment, and logistics performance datasets into the Bronze layer.
+- Profiled source data and investigated data quality issues.
+- Cleaned and standardised data in the Silver layer.
+- Handled malformed records, inconsistent values, data type issues, and duplicates.
+- Built Gold dimension and fact views for analytics.
+- Used SQL joins to integrate dimensional and transactional data.
+- Implemented Python-based ETL components for extraction, Bronze loading, database connectivity, logging, and pipeline orchestration through project collaboration.
+- Documented architecture, transformations, and data quality decisions.
+
+**Current stage:** Gold layer views completed. Further ETL automation and analytics development in progress.
+
+🔗 [View the Logistics Data Warehouse](https://github.com/Letsela07/logistics_data_warehouse)
+
+## 📂 Other Projects
 
 ### 📊 Job Salary Analysis
 
-End-to-end analysis of 250,000 salary records using SQL and Looker Studio. Focused on salary trends, experience levels, company sizes, remote work patterns, and geographic comparisons.
+Analysed **250,000 salary records** using MySQL and Looker Studio to explore salary patterns across job roles, locations, experience levels, education, and company sizes.
 
-### 🏦 Banking SQL Project
-
-Designed and implemented a relational banking database with customers, accounts, branches, and transactions using SQL and database modelling principles.
+🔗 [View the Job Salary Analysis](https://github.com/Letsela07/job-salary-analysis)
 
 ### 🛒 Retail Sales Data Engineering Capstone
 
-Built a retail sales staging pipeline using PostgreSQL, dimensional modelling, staging dimensions, and staging fact tables. Applied data warehousing concepts and ETL fundamentals.
+Built a retail sales data engineering project using PostgreSQL, staging tables, dimensional modelling, dimensions, and fact tables to apply data warehousing and ETL concepts.
 
-### 🚚 Logistics Data Warehouse
+🔗 [View the Retail Sales Capstone](https://github.com/Letsela07/retails_capstone)
 
-Designing a logistics data warehouse using Medallion Architecture (Bronze, Silver, Gold) and dimensional modelling to support operational reporting and business analytics.
+### 🏦 Banking SQL Project
 
-## 🎯 Career Goals
+Designed and implemented a relational banking database containing customers, accounts, branches, and transactions while applying SQL and relational database modelling concepts.
 
-I am actively working toward opportunities in:
+🔗 [View the Banking SQL Project](https://github.com/Letsela07/banking-sql-project)
 
-* Junior Data Engineer
-* Junior Data Analyst
-* Business Intelligence Analyst
+## 📚 Currently Learning & Building
 
-My long-term goal is to design scalable data platforms and build reliable data solutions that enable organizations to make data-driven decisions.
+- Advanced SQL and data transformation
+- Python for Data Engineering
+- SSIS and ETL pipeline development
+- Data Warehousing and Dimensional Modelling
+- Power BI
+- Cloud Data Engineering
 
-## 📈 Current Focus Areas
+## 🎯 Career Direction
 
-* SQL & Database Development
-* Data Warehousing
-* ETL Pipeline Development
-* Power BI Dashboards
-* Python for Data Engineering
-* Cloud Data Technologies
+I'm working toward opportunities in **Data Engineering, Data Analysis, and Business Intelligence**, with a particular interest in building reliable data pipelines and data warehouse solutions.
+
+My long-term goal is to develop the skills required to design, automate, and maintain reliable data platforms that turn raw data into useful information for decision-making.
 
 ## 🤝 Connect With Me
 
-📍 Cape Town, South Africa
-
-💼 LinkedIn: [www.linkedin.com/in/lebohang-letsela](http://www.linkedin.com/in/lebohang-letsela)
-
-
+📍 Cape Town, South Africa  
+💼 [LinkedIn](https://www.linkedin.com/in/lebohang-letsela)
